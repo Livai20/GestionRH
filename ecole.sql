@@ -6,7 +6,7 @@
 -- Généré le : lun. 29 jan. 2024 à 11:40
 -- Version du serveur : 5.7.36
 -- Version de PHP : 7.3.33
-
+ 
 SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
 START TRANSACTION;
 SET time_zone = "+00:00";
